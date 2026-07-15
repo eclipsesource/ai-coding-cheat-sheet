@@ -36,7 +36,7 @@ Resolves relative to your project directory.
   "DISABLE_ERROR_REPORTING": "1",
   "DISABLE_BUG_COMMAND": "1",
   "CLAUDE_CODE_DISABLE_FEEDBACK_SURVEY": "1",
-  "CLAUDE_CODE_DISABLE_NONESSENTIAL_TRAFFIC": "1"
+  "DISABLE_FEEDBACK_COMMAND": "1"
 }
 ```
 
@@ -152,7 +152,7 @@ stays prompted.
     "DISABLE_ERROR_REPORTING": "1",
     "DISABLE_BUG_COMMAND": "1",
     "CLAUDE_CODE_DISABLE_FEEDBACK_SURVEY": "1",
-    "CLAUDE_CODE_DISABLE_NONESSENTIAL_TRAFFIC": "1"
+    "DISABLE_FEEDBACK_COMMAND": "1"
   },
   "permissions": {
     "allow": [
