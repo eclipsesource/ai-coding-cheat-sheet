@@ -12,6 +12,11 @@ const links = [
     description: 'Exercise repository for the training',
   },
   {
+    title: 'Fan Control Exercise',
+    href: 'https://github.com/eclipsesource/fan-control-exercise',
+    description: 'Second exercise repository for the training',
+  },
+  {
     title: 'grill-me skill',
     href: 'https://ai.open-vsx.org/?skill=io.github.mattpocock%2Fgrill-me',
     description: 'Skill by Matt Pollock to stress-test a plan',
