@@ -51,6 +51,16 @@ Shows context usage percentage, token count, and percentage of 150k tokens used.
 }
 ```
 
+## Opus for planning, Sonnet for execution
+
+```json
+"model": "opusplan"
+```
+
+Uses Opus while you're in plan mode — where the deep reasoning matters most — then
+automatically switches to Sonnet for execution once you exit plan mode. No manual
+switching required. Equivalent to `claude --model opusplan`.
+
 ## Auto-allow common tools & commands
 
 Safe defaults for **non-isolated** local use. Commands that are read-only or only affect
@@ -138,6 +148,7 @@ stays prompted.
 
 ```json
 {
+  "model": "opusplan",
   "attribution": {
     "commit": "",
     "pr": ""

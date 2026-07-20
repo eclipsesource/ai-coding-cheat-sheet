@@ -1,6 +1,6 @@
 # Links
 
-- [Online Training](https://eclipsesource.teachable.com/p/ai-coding) — AI coding training course
+- [Online Training](https://eclipsesource.teachable.com/p/ai-coding) — Systematic AI Coding Training course
 - [Calculator Exercise](https://github.com/eclipsesource/systematic-ai-coding-calculator-exercise) — Exercise repository for the training
 - [Fan Control Exercise](https://github.com/eclipsesource/fan-control-exercise) — Second exercise repository for the training
 - [grill-me skill](https://ai.open-vsx.org/?skill=io.github.mattpocock%2Fgrill-me) — Skill by Matt Pollock to stress-test a plan

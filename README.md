@@ -1,12 +1,13 @@
 # AI Coding Cheat Sheet
 
-Resources and tools for the [EclipseSource AI Coding Training](https://eclipsesource.teachable.com/p/ai-coding) and beyond.
+Resources and tools for the [EclipseSource Systematic AI Coding Training](https://eclipsesource.teachable.com/p/ai-coding) and beyond.
 
 **Website:** https://ai-coding-cheat-sheet.com
 
 ## Contents
 
 - **[claude-code/settings.md](claude-code/settings.md)** — Curated Claude Code settings (permissions, attribution, status line)
+- **[claude-code/tips.md](claude-code/tips.md)** — Tip of the day
 - **[skills/](skills/)** — Claude Code skills for phased implementation workflows
 - **[links.md](links.md)** — Training and resource links
 
